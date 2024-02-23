@@ -1,0 +1,13 @@
+{
+    "statusCode": 200,
+    "body": {
+        {
+            "report_id": 5,
+            "report_title" : "Hello, world"
+        },
+        {
+            "report_id": 7,
+            "report_title" : "Good morning!"
+        }
+    }
+}
