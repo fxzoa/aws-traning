@@ -1,0 +1,38 @@
+{
+    "resource": "/abc",
+    "path": "/abc",
+    "httpMethod": "GET",
+    "headers": null,
+    "multiValueHeaders": null,
+    "queryStringParameters": {
+        "input_text": "クエリ文字列"
+    },
+    "multiValueQueryStringParameters": {
+        "input_text": [
+            "クエリ文字列"
+        ]
+    },
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+        "resourceId": "13882y",
+        "resourcePath": "/abc",
+        "httpMethod": "GET",
+        "extendedRequestId": "TrrfwFVHtjMFzTw=",
+        "requestTime": "25/Feb/2024:07:56:58 +0000",
+        "path": "/abc",
+        "accountId": "536730362060",
+        "protocol": "HTTP/1.1",
+        "stage": "test-invoke-stage",
+        "domainPrefix": "testPrefix",
+        "requestTimeEpoch": 1708847818968,
+        "requestId": "777102aa-8e97-44e0-a16e-bd4414abd64a",
+        "identity": {
+            "cognitoIdentityPoolId": null,
+            "cognitoIdentityId": null,
+            "apiKey": "test-invoke-api-key",
+            "principalOrgId": null,
+            "cognitoAuthenticationType": null,
+            "userArn": "arn:aws:iam::536730362060:root",
+            "apiKeyId": "test-invoke-api-key-id",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Saf"

@@ -1,0 +1,10 @@
+### API GW 
+GET https://78h4p5w12c.execute-api.ap-northeast-1.amazonaws.com/dev/abc?input_text=サーバーレスアーキテクチャ
+
+### API GW 
+GET https://78h4p5w12c.execute-api.ap-northeast-1.amazonaws.com/dev/abc
+Content-Type: application/json
+
+{
+    "input_text" : "デフォルトでは、メソッドはステージレベルの設定を継承します"{{UUUID}}
+}
