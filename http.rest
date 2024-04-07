@@ -8,3 +8,20 @@ Content-Type: application/json
 {
     "input_text" : "デフォルトでは、メソッドはステージレベルの設定を継承します"{{UUUID}}
 }
+
+### S3
+GET http://cnc-aws.net.s3-website-ap-northeast-1.amazonaws.com/
+
+
+### cloudfront
+GET http://www.cnc-aws.net/
+
+
+### cloudfront
+GET https://drdmhsmmfhucg.cloudfront.net
+
+### cloudfront
+GET https://d6aq7uv92a0iv.cloudfront.net
+
+### 
+GET http://d3lmcntac4whit.cloudfront.net
